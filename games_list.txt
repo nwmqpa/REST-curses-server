@@ -1,0 +1,3 @@
+example_game
+my_sokoban
+my_bomberman
